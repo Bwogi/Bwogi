@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on a number of projects, mostly in React(MERN stack) to be specific.
 - 🌱 I’m currently learning AI and more advanced Python Coding techniques
-- 👯 I’m looking to collaborate on MERN Stack Projects
+- 👯 I’m looking to collaborate on MongoDB, ExpressJS, React and NodeJS Projects.
+- 💬 Ask me about PHP, Mysql, Node, MongoDB, React, ExpressJS and Python.
+- 📫 How to reach me: andrew.bwogi@ereports.net
+- 
 <!-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
