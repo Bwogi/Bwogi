@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Andrew Bwogi
 
-##Full Stack Web Developer(Class of 2021, UC Berkeley)
-<!--
+Full Stack Web Developer(Class of 2021, UC Berkeley)
+
 **Bwogi/Bwogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
