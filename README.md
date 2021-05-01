@@ -1,5 +1,5 @@
 # Hi 👋 I'm Andrew Bwogi
-### Full Stack Web Developer(Class of 2021, UC Berkeley Coding Bootcamp)
+### Full Stack Web Developer(Class of 2021, UC Berkeley)
 
 - 🔭 I’m currently working on a number of projects, mostly in React(MERN stack) to be specific.
 - 🌱 I’m currently learning AI and more advanced Python Coding techniques
