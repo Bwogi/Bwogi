@@ -7,5 +7,5 @@
 - 💬 Ask me about PHP, Mysql, Node, MongoDB, React, ExpressJS and Python.
 - 📫 How to reach me: office@andrewbwogi.com
 <!-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... -->
